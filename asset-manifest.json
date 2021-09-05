@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.133ec51a.chunk.css",
-    "main.js": "/static/js/main.586f3fc6.chunk.js",
-    "main.js.map": "/static/js/main.586f3fc6.chunk.js.map",
+    "main.js": "/static/js/main.3bb5cca6.chunk.js",
+    "main.js.map": "/static/js/main.3bb5cca6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.47834a33.js",
     "runtime-main.js.map": "/static/js/runtime-main.47834a33.js.map",
     "static/css/2.43b2b750.chunk.css": "/static/css/2.43b2b750.chunk.css",
@@ -56,16 +56,16 @@
     "static/media/event_animation_new.9249b6d2.gif": "/static/media/event_animation_new.9249b6d2.gif",
     "static/media/facade.a9c7aa87.jpg": "/static/media/facade.a9c7aa87.jpg",
     "static/media/facade_grid.9fdab23e.png": "/static/media/facade_grid.9fdab23e.png",
-    "static/media/finalscreens1.776029d0.jpg": "/static/media/finalscreens1.776029d0.jpg",
+    "static/media/finalscreens1.0df51ee6.png": "/static/media/finalscreens1.0df51ee6.png",
     "static/media/finalscreens2.79693317.jpg": "/static/media/finalscreens2.79693317.jpg",
     "static/media/fontcolor.086fda3d.jpg": "/static/media/fontcolor.086fda3d.jpg",
     "static/media/food2_grid.318b5d78.jpg": "/static/media/food2_grid.318b5d78.jpg",
-    "static/media/food_bgrid_logo.28f24f96.png": "/static/media/food_bgrid_logo.28f24f96.png",
+    "static/media/food_bgrid_logo.1d2600fe.png": "/static/media/food_bgrid_logo.1d2600fe.png",
     "static/media/food_big_grid.27affb69.png": "/static/media/food_big_grid.27affb69.png",
     "static/media/food_gif1.dd65c981.gif": "/static/media/food_gif1.dd65c981.gif",
-    "static/media/food_hero2.046bcbc9.jpg": "/static/media/food_hero2.046bcbc9.jpg",
+    "static/media/food_hero2.979f7e74.png": "/static/media/food_hero2.979f7e74.png",
     "static/media/food_hero3.cf174e5e.jpg": "/static/media/food_hero3.cf174e5e.jpg",
-    "static/media/food_hero5.39229e34.jpg": "/static/media/food_hero5.39229e34.jpg",
+    "static/media/food_hero5.6aa557d5.png": "/static/media/food_hero5.6aa557d5.png",
     "static/media/food_initial_architecture.2d4f8285.png": "/static/media/food_initial_architecture.2d4f8285.png",
     "static/media/food_interview.399f3a88.png": "/static/media/food_interview.399f3a88.png",
     "static/media/functioned.0647904c.png": "/static/media/functioned.0647904c.png",
@@ -173,6 +173,6 @@
     "static/css/2.43b2b750.chunk.css",
     "static/js/2.2b954f90.chunk.js",
     "static/css/main.133ec51a.chunk.css",
-    "static/js/main.586f3fc6.chunk.js"
+    "static/js/main.3bb5cca6.chunk.js"
   ]
 }
