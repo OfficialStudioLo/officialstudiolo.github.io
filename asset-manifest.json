@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.133ec51a.chunk.css",
-    "main.js": "/static/js/main.0ebcc9ce.chunk.js",
-    "main.js.map": "/static/js/main.0ebcc9ce.chunk.js.map",
+    "main.js": "/static/js/main.d521505f.chunk.js",
+    "main.js.map": "/static/js/main.d521505f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.47834a33.js",
     "runtime-main.js.map": "/static/js/runtime-main.47834a33.js.map",
     "static/css/2.43b2b750.chunk.css": "/static/css/2.43b2b750.chunk.css",
@@ -138,6 +138,7 @@
     "static/media/robsonview.0ec29994.png": "/static/media/robsonview.0ec29994.png",
     "static/media/sans_highres2.58a140db.png": "/static/media/sans_highres2.58a140db.png",
     "static/media/scenario2.52149b9a.jpg": "/static/media/scenario2.52149b9a.jpg",
+    "static/media/shop_gige_pages.9516e19b.png": "/static/media/shop_gige_pages.9516e19b.png",
     "static/media/sitelogo.544e25c5.png": "/static/media/sitelogo.544e25c5.png",
     "static/media/solution_1.69189ca3.jpg": "/static/media/solution_1.69189ca3.jpg",
     "static/media/solution_2.c8a476bf.jpg": "/static/media/solution_2.c8a476bf.jpg",
@@ -173,6 +174,6 @@
     "static/css/2.43b2b750.chunk.css",
     "static/js/2.2b954f90.chunk.js",
     "static/css/main.133ec51a.chunk.css",
-    "static/js/main.0ebcc9ce.chunk.js"
+    "static/js/main.d521505f.chunk.js"
   ]
 }
