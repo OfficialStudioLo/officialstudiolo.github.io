@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.133ec51a.chunk.css",
-    "main.js": "/static/js/main.804f3c9c.chunk.js",
-    "main.js.map": "/static/js/main.804f3c9c.chunk.js.map",
+    "main.css": "/static/css/main.14a0e192.chunk.css",
+    "main.js": "/static/js/main.599b89c5.chunk.js",
+    "main.js.map": "/static/js/main.599b89c5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.47834a33.js",
     "runtime-main.js.map": "/static/js/runtime-main.47834a33.js.map",
     "static/css/2.43b2b750.chunk.css": "/static/css/2.43b2b750.chunk.css",
-    "static/js/2.2b954f90.chunk.js": "/static/js/2.2b954f90.chunk.js",
-    "static/js/2.2b954f90.chunk.js.map": "/static/js/2.2b954f90.chunk.js.map",
+    "static/js/2.2a8e5920.chunk.js": "/static/js/2.2a8e5920.chunk.js",
+    "static/js/2.2a8e5920.chunk.js.map": "/static/js/2.2a8e5920.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.43b2b750.chunk.css.map": "/static/css/2.43b2b750.chunk.css.map",
-    "static/css/main.133ec51a.chunk.css.map": "/static/css/main.133ec51a.chunk.css.map",
-    "static/js/2.2b954f90.chunk.js.LICENSE.txt": "/static/js/2.2b954f90.chunk.js.LICENSE.txt",
+    "static/css/main.14a0e192.chunk.css.map": "/static/css/main.14a0e192.chunk.css.map",
+    "static/js/2.2a8e5920.chunk.js.LICENSE.txt": "/static/js/2.2a8e5920.chunk.js.LICENSE.txt",
     "static/media/AnimatedLogo4.2a4bd770.gif": "/static/media/AnimatedLogo4.2a4bd770.gif",
     "static/media/admockups.a2dd1381.jpg": "/static/media/admockups.a2dd1381.jpg",
     "static/media/alley.5d69e49d.jpg": "/static/media/alley.5d69e49d.jpg",
@@ -83,6 +83,7 @@
     "static/media/gigewebsite_homepage.27a4a830.jpg": "/static/media/gigewebsite_homepage.27a4a830.jpg",
     "static/media/glasshouse.4baa77fa.jpg": "/static/media/glasshouse.4baa77fa.jpg",
     "static/media/glasshouse_grid.6bdb7991.png": "/static/media/glasshouse_grid.6bdb7991.png",
+    "static/media/honey_big_grid.f7689b9b.png": "/static/media/honey_big_grid.f7689b9b.png",
     "static/media/honey_grid.ba20cd3e.jpg": "/static/media/honey_grid.ba20cd3e.jpg",
     "static/media/hori_banner_grid.4cdf0bd2.jpg": "/static/media/hori_banner_grid.4cdf0bd2.jpg",
     "static/media/ios_grid.075f15e0.jpg": "/static/media/ios_grid.075f15e0.jpg",
@@ -92,6 +93,7 @@
     "static/media/journey2.b2853d2c.png": "/static/media/journey2.b2853d2c.png",
     "static/media/journey3.bb20df06.png": "/static/media/journey3.bb20df06.png",
     "static/media/journey_compiled.6b3f5ef2.png": "/static/media/journey_compiled.6b3f5ef2.png",
+    "static/media/monument_big_grid.8d6b173a.png": "/static/media/monument_big_grid.8d6b173a.png",
     "static/media/monumentconstruction.690862e0.png": "/static/media/monumentconstruction.690862e0.png",
     "static/media/monumentgrid.e1f86506.jpg": "/static/media/monumentgrid.e1f86506.jpg",
     "static/media/monumenthero.af247a77.png": "/static/media/monumenthero.af247a77.png",
@@ -140,6 +142,7 @@
     "static/media/scenario2.52149b9a.jpg": "/static/media/scenario2.52149b9a.jpg",
     "static/media/shop_gige_pages.9516e19b.png": "/static/media/shop_gige_pages.9516e19b.png",
     "static/media/sitelogo.544e25c5.png": "/static/media/sitelogo.544e25c5.png",
+    "static/media/sketches_big_grid.1be939c8.png": "/static/media/sketches_big_grid.1be939c8.png",
     "static/media/solution_1.69189ca3.jpg": "/static/media/solution_1.69189ca3.jpg",
     "static/media/solution_2.c8a476bf.jpg": "/static/media/solution_2.c8a476bf.jpg",
     "static/media/solution_3.16a21989.jpg": "/static/media/solution_3.16a21989.jpg",
@@ -172,8 +175,8 @@
   "entrypoints": [
     "static/js/runtime-main.47834a33.js",
     "static/css/2.43b2b750.chunk.css",
-    "static/js/2.2b954f90.chunk.js",
-    "static/css/main.133ec51a.chunk.css",
-    "static/js/main.804f3c9c.chunk.js"
+    "static/js/2.2a8e5920.chunk.js",
+    "static/css/main.14a0e192.chunk.css",
+    "static/js/main.599b89c5.chunk.js"
   ]
 }
