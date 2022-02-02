@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.f00c0e1c.chunk.css",
-    "main.js": "/static/js/main.a2dcfdb4.chunk.js",
-    "main.js.map": "/static/js/main.a2dcfdb4.chunk.js.map",
+    "main.js": "/static/js/main.9ffe407a.chunk.js",
+    "main.js.map": "/static/js/main.9ffe407a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.47834a33.js",
     "runtime-main.js.map": "/static/js/runtime-main.47834a33.js.map",
     "static/css/2.43b2b750.chunk.css": "/static/css/2.43b2b750.chunk.css",
@@ -20,6 +20,7 @@
     "static/media/band_dgrid.1e544f9a.png": "/static/media/band_dgrid.1e544f9a.png",
     "static/media/band_diagram.aa138a26.png": "/static/media/band_diagram.aa138a26.png",
     "static/media/band_grid.7b91cae0.png": "/static/media/band_grid.7b91cae0.png",
+    "static/media/band_prototype.e7d23d86.jpg": "/static/media/band_prototype.e7d23d86.jpg",
     "static/media/banddetail1.21547c32.png": "/static/media/banddetail1.21547c32.png",
     "static/media/banddetail2.c5012e0d.png": "/static/media/banddetail2.c5012e0d.png",
     "static/media/bandmain.e5a06242.png": "/static/media/bandmain.e5a06242.png",
@@ -190,6 +191,6 @@
     "static/css/2.43b2b750.chunk.css",
     "static/js/2.9e3f8c97.chunk.js",
     "static/css/main.f00c0e1c.chunk.css",
-    "static/js/main.a2dcfdb4.chunk.js"
+    "static/js/main.9ffe407a.chunk.js"
   ]
 }
